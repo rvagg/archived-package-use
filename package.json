@@ -1,14 +1,13 @@
 {
   "name": "package-use",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use the nodei.co Node.js package download count API to create CSV data on package use",
   "main": "package-use.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/rvagg/package-use.git"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Rod <rod@vagg.org> (http://r.va.gg/)",
   "license": "Apache-2.0",
   "dependencies": {
