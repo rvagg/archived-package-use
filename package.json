@@ -1,6 +1,6 @@
 {
   "name": "package-use",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use the nodei.co Node.js package download count API to create CSV data on package use",
   "main": "package-use.js",
   "repository": {
