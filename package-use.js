@@ -51,7 +51,7 @@ function processAll (err, data) {
       var d
 
       if (avg) {
-        var p = day.clone().subtract(1, 'week')
+        var p = day.clone().subtract(6, 'days')
         var tot = 0
         while (p <= day) {
           tot += dld(p, pkg)
