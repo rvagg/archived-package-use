@@ -5,7 +5,7 @@
   "main": "package-use.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rvagg/through2.git"
+    "url": "https://github.com/rvagg/package-use.git"
   },
   "scripts": {
   },
